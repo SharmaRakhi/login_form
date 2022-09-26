@@ -45,7 +45,7 @@ transition: all 0.2s;
     padding: 14px;
     text-transform: uppercase;
     background: #7D1935;
-    color: #ffffff;
+    color: teal;
     transition: 0.3s linear all;
     cursor: pointer;
     margin-top: 20px;
